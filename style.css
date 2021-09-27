@@ -976,7 +976,7 @@ body .primary-btn:hover::after {
 /* =========================== footer section ============================== */
 .footer-section {
     background: #111;
-    padding: 100px 0 3px;
+    padding: 100px 0 3px !important;
 }
 
 .footer-left {}
